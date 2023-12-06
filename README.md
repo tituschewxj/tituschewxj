@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I like coding. I am interested in computer graphics, algorithms, machine learning and artificial intelligence.
+
+---
+#### Links
+- [My Website](https://tituschewxj.github.io)
+- [LinkedIn](in/tituschewxj)
+- [Leetcode](https://leetcode.com/tituschewxj/)
+- [Kattis](https://open.kattis.com/users/tituschewxj)
+- [CodeForces](https://codeforces.com/profile/tituschewxj)
+- [itch.io](https://utdcus.itch.io/)
