@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I like coding. I am interested in full stack development, computer graphics, algorithms, machine learning and artificial intelligence.
+I like coding. I am interested in software engineering, full stack development, computer graphics, algorithms, machine learning and artificial intelligence.
 
 - Open for any 2024 summer internships.
 
