@@ -22,7 +22,7 @@ I like coding. I am interested in software engineering, full stack development, 
 ---
 #### Links
 - [My Website](https://tituschewxj.github.io)
-- [LinkedIn](in/tituschewxj)
+- [LinkedIn](https://www.linkedin.com/in/tituschewxj/)
 - [Leetcode](https://leetcode.com/tituschewxj/)
 - [Kattis](https://open.kattis.com/users/tituschewxj)
 - [CodeForces](https://codeforces.com/profile/tituschewxj)
