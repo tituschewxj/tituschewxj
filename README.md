@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I like coding. I am interested in software engineering, full stack development, computer graphics, algorithms, machine learning and artificial intelligence.
+I'm a Computer Science major at the National University of Singapore.
 
-- Open for any 2024 summer internships.
+I'm interested in software engineering, full stack development, computer graphics and games, and algorithms.
 
 ---
 #### Links
