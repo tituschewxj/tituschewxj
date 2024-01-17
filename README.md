@@ -19,8 +19,14 @@ I'm a Computer Science major at the National University of Singapore.
 
 I'm interested in software engineering, full stack development, computer graphics and games, and algorithms.
 
----
-#### Links
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tituschewxj&show_icons=true&theme=transparent&hide_rank=true&hide=stars,issues&show=prs_merged)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/tituschewxj?ext=contest)
+
+
+#### My Links
 - [My Website](https://tituschewxj.github.io)
 - [LinkedIn](https://www.linkedin.com/in/tituschewxj/)
 - [Leetcode](https://leetcode.com/tituschewxj/)
