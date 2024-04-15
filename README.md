@@ -21,7 +21,7 @@ I'm interested in software engineering, full stack development, computer graphic
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tituschewxj&show_icons=true&theme=transparent&hide_rank=true&hide=stars,issues&show=prs_merged)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tituschewxj&show_icons=true&theme=transparent&hide_rank=true&hide=stars,issues&show=prs_merged,reviews)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tituschewxj?ext=contest)
 
