@@ -33,3 +33,4 @@ I'm interested in software engineering, full stack development, computer graphic
 - [Kattis](https://open.kattis.com/users/tituschewxj)
 - [CodeForces](https://codeforces.com/profile/tituschewxj)
 - [itch.io](https://utdcus.itch.io/)
+- [GitLab](https://gitlab.com/tituschewxj)
