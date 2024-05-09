@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science major at the National University of Singapore.
+I'm a Computer Science major at the National University of Singapore, graduating in 2026.
 
 I'm interested in software engineering, full stack development, computer graphics and games, and algorithms.
 
