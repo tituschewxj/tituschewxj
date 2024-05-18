@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I'm a Computer Science major at the National University of Singapore, graduating in 2026.
 
-I'm interested in software engineering, full stack development, computer graphics and games, and algorithms.
+I'm interested in software engineering, full stack development, system design, computer graphics and games, and algorithms.
 
-I enjoy problem solving and designing quality code.
+I enjoy problem solving and designing quality code, and solving real world problems. I am currently at specialist rank (1400+) in CodeForces.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tituschewxj&show_icons=true&theme=transparent&hide_rank=true&hide=stars,issues&show=prs_merged,reviews)
 
