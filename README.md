@@ -15,22 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science major at the National University of Singapore, graduating in 2026.
+I'm a Computer Science major at the National University of Singapore, graduating in 2026. I am currently looking for opportunities.
 
-I'm interested in software engineering, full stack development, system design, computer graphics and games, and algorithms.
+I'm interested in learning about software engineering, parallel computing, full stack, DevOps, system design, computer graphics, and algorithms.
 
-I enjoy problem solving and designing quality code, and solving real world problems. I am currently at specialist rank (1400+) in CodeForces.
+I enjoy designing quality code, and solving real world problems, having contributed to various projects on GitHub and [GitLab](https://gitlab.com/tituschewxj).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tituschewxj&show_icons=true&theme=transparent&hide_rank=true&hide=stars,issues&show=prs_merged,reviews)
 
+I enjoy problem solving and attempting [Leetcode](https://leetcode.com/tituschewxj/) problems. I am also at specialist rank in [CodeForces](https://codeforces.com/profile/tituschewxj), and have solved a number of problems on [Kattis](https://open.kattis.com/users/tituschewxj).
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tituschewxj?ext=contest)
 
+In my free time, I like to develop games. You can find several of my games on [itch.io](https://utdcus.itch.io/).
 
-#### My Links
-- [My Website](https://tituschewxj.github.io)
-- [LinkedIn](https://www.linkedin.com/in/tituschewxj/)
-- [Leetcode](https://leetcode.com/tituschewxj/)
-- [Kattis](https://open.kattis.com/users/tituschewxj)
-- [CodeForces](https://codeforces.com/profile/tituschewxj)
-- [itch.io](https://utdcus.itch.io/)
-- [GitLab](https://gitlab.com/tituschewxj)
+More about me on [my website](https://tituschewxj.github.io) and [LinkedIn](https://www.linkedin.com/in/tituschewxj/).
