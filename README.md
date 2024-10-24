@@ -21,7 +21,17 @@ I'm interested in learning about software engineering, parallel computing, full 
 
 I enjoy designing quality code, and solving real world problems, having contributed to various projects on GitHub and [GitLab](https://gitlab.com/tituschewxj).
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tituschewxj&show_icons=true&theme=transparent&hide_rank=true&hide=stars,issues&show=prs_merged,reviews)
+
+<div>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tituschewxj&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true&hide=stars,issues&show=prs_merged,reviews)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tituschewxj&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&hide=c%23,shaderlab,hlsl)
+
+</div>
+
+
+
 
 I enjoy problem solving and attempting [Leetcode](https://leetcode.com/tituschewxj/) problems. I am also at specialist rank in [CodeForces](https://codeforces.com/profile/tituschewxj), and have solved a number of problems on [Kattis](https://open.kattis.com/users/tituschewxj).
 
