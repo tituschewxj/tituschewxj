@@ -1,28 +1,14 @@
 ### Hi there 👋
 
-<!--
-**tituschewxj/tituschewxj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Titus, a Computer Science major at the National University of Singapore, set to graduate in 2026. Passionate about technology and innovation, I am currently seeking exciting opportunities to grow and contribute.
 
-Here are some ideas to get you started:
+I have a strong interest in software engineering, parallel computing, full-stack development, computer graphics, and algorithms. These areas fuel my curiosity and drive to create impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Do
 
-I'm a Computer Science major at the National University of Singapore, graduating in 2026. I am currently looking for opportunities.
+I love crafting high-quality code and tackling real-world problems. My contributions span multiple projects hosted on GitHub and [GitLab](https://gitlab.com/tituschewxj).
 
-I'm interested in learning about software engineering, parallel computing, full stack, DevOps, system design, computer graphics, and algorithms.
-
-I enjoy designing quality code, and solving real world problems, having contributed to various projects on GitHub and [GitLab](https://gitlab.com/tituschewxj).
-
-
-<div>
+<div> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tituschewxj&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true&hide=stars,issues&show=prs_merged,reviews)
 &nbsp;
@@ -30,13 +16,24 @@ I enjoy designing quality code, and solving real world problems, having contribu
 
 </div>
 
+### :brain: Problem-Solving
 
+I’m an avid problem-solver and frequently challenge myself on platforms like:
 
-
-I enjoy problem solving and attempting [Leetcode](https://leetcode.com/tituschewxj/) problems. I am also at specialist rank in [CodeForces](https://codeforces.com/profile/tituschewxj), and have solved a number of problems on [Kattis](https://open.kattis.com/users/tituschewxj).
+- [Leetcode](https://leetcode.com/tituschewxj/): Check out my progress and stats below!
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tituschewxj?ext=contest)
 
-In my free time, I like to develop games. You can find several of my games on [itch.io](https://utdcus.itch.io/).
+- [CodeForces](https://codeforces.com/profile/tituschewxj): Specialist rank
+- [Kattis](https://open.kattis.com/users/tituschewxj): Numerous problems solved
 
-More about me on [my website](https://tituschewxj.github.io) and [LinkedIn](https://www.linkedin.com/in/tituschewxj/).
+### 🎮 Game Development
+
+In my free time, I explore game development and share my creations on [itch.io](https://utdcus.itch.io/). Game design allows me to combine creativity with technical skills, building experiences that delight and inspire.
+
+### 🌐 Find Me Online
+
+- [Website](https://tituschewxj.github.io)
+- [LinkedIn](https://www.linkedin.com/in/tituschewxj/)
+
+Feel free to reach out—I’d love to connect or collaborate on projects! 🚀
