@@ -33,7 +33,9 @@ In my free time, I explore game development and share my creations on [itch.io](
 
 ### 🌐 Find Me Online
 
+<!---
 - [Website](https://tituschewxj.github.io)
+-->
 - [LinkedIn](https://www.linkedin.com/in/tituschewxj/)
 
 Feel free to reach out—I’d love to connect or collaborate on projects! 🚀
