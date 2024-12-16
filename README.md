@@ -31,6 +31,16 @@ I’m an avid problem-solver and frequently challenge myself on platforms like:
 
 In my free time, I explore game development and share my creations on [itch.io](https://utdcus.itch.io/). Game design allows me to combine creativity with technical skills, building experiences that delight and inspire.
 
+### 🖥️ Technologies & Tools
+
+I am proficient in a wide range of programming languages, frameworks, and tools, including:
+
+- Languages: Go, C/C++, JavaScript, TypeScript, Java, Python, SQL
+- Web Development: React, Node.js, Next.js, HTML, CSS
+- Databases: MySQL, PostgreSQL, MongoDB, Redis
+- Game Development: Unity, C#
+- Tools: Git, Docker, VS Code, IntelliJ, Linux, Bash
+
 ### 🌐 Find Me Online
 
 <!---
