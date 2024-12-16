@@ -18,7 +18,7 @@ I am passionate about crafting high-quality code and solving real-world problems
 
 ### :brain: Problem-Solving
 
-I’m an avid problem-solver and frequently challenge myself on platforms like:
+I’m passionate about problem-solving and continuously seek out new challenges to improve my skills. I enjoy the learning process and frequently challenge myself on various programming platforms:
 
 - [Leetcode](https://leetcode.com/tituschewxj/): Check out my progress and stats below!
 
