@@ -2,11 +2,11 @@
 
 I’m Titus, a Computer Science major at the National University of Singapore, set to graduate in 2026. Passionate about technology and innovation, I am currently seeking exciting opportunities to grow and contribute.
 
-I am deeply passionate about software engineering, with a focus on parallel computing, databases, and algorithms. My experience spans full-stack development, and I have a particular enthusiasm for computer graphics. These fields inspire my curiosity and motivate me to develop innovative and impactful solutions.
+I am deeply passionate about software engineering, with a focus on parallel computing, databases, and algorithms. My experience spans full-stack development, and I have a particular enthusiasm for computer graphics and games. These fields inspire my curiosity and motivate me to develop innovative and impactful solutions.
 
 ### 🛠️ What I Do
 
-I love crafting high-quality code and tackling real-world problems. My contributions span multiple projects hosted on GitHub and [GitLab](https://gitlab.com/tituschewxj).
+I am passionate about crafting high-quality code and solving real-world problems. My contributions include a range of projects available on GitHub and [GitLab](https://gitlab.com/tituschewxj). Additionally, I find fulfillment in leveraging my skills for the public good, as demonstrated through my work with Computing for Voluntary Welfare Organizations.
 
 <div> 
 
