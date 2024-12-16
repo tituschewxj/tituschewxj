@@ -33,13 +33,45 @@ In my free time, I explore game development and share my creations on [itch.io](
 
 ### 🖥️ Technologies & Tools
 
-I am proficient in a wide range of programming languages, frameworks, and tools, including:
+I have experience in a wide range of programming languages, frameworks, and tools, including:
 
-- Languages: Go, C/C++, JavaScript, TypeScript, Java, Python, SQL
-- Web Development: React, Node.js, Next.js, HTML, CSS
-- Databases: MySQL, PostgreSQL, MongoDB, Redis
-- Game Development: Unity, C#
-- Tools: Git, Docker, VS Code, IntelliJ, Linux, Bash
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000" alt="Go" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=22189&format=png&color=000000" alt="Ruby" width="50" height="50"/>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="React" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node.js" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="Next.js" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="50" height="50"/>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="MongoDB" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" alt="Redis" width="50" height="50"/>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=P08kExl7rixR&format=png&color=000000" alt="Unity" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="C#" width="50" height="50"/>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Docker" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="IntelliJ" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="Amazon Web Services" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" alt="Bash" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=LyU6IwWaREPI&format=png&color=000000" alt="Vim" width="50" height="50"/>
+</div>
 
 ### 🌐 Find Me Online
 
