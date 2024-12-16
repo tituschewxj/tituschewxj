@@ -6,7 +6,7 @@ I am deeply passionate about software engineering, with a focus on parallel comp
 
 ### 🛠️ What I Do
 
-I am passionate about crafting high-quality code and solving real-world problems. My contributions include a range of projects available on GitHub and [GitLab](https://gitlab.com/tituschewxj). Additionally, I find fulfillment in leveraging my skills for the public good and the community, as demonstrated through my work with [Computing for Voluntary Welfare Organizations](https://www.comp.nus.edu.sg/~vwo/).
+I am passionate about crafting high-quality code and solving real-world problems. My contributions include a range of projects available on GitHub and [GitLab](https://gitlab.com/tituschewxj). I also take pride in using my skills for the greater good, as reflected in my work with [Computing for Voluntary Welfare Organizations](https://www.comp.nus.edu.sg/~vwo/), where I contribute to supporting the community.
 
 <div> 
 
