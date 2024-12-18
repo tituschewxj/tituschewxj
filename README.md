@@ -51,12 +51,14 @@ I have experience in a wide range of programming languages, frameworks, and tool
   <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="50" height="50"/>  
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=ZMFmFsekpKfY&format=png&color=d30001" alt="Ruby on Rails" width="50" height="50"/>
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL" width="50" height="50"/>  
   <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="50" height="50"/>  
   <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="MongoDB" width="50" height="50"/>  
   <img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" alt="Redis" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="Firebase" width="50" height="50"/>
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.icons8.com/?size=100&id=P08kExl7rixR&format=png&color=000000" alt="Unity" width="50" height="50"/>  
