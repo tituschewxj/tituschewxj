@@ -54,6 +54,14 @@ I have experience in a wide range of programming languages, frameworks, and tool
   <img src="https://img.icons8.com/?size=100&id=ZMFmFsekpKfY&format=png&color=d30001" alt="Ruby on Rails" width="50" height="50"/>
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="IntelliJ" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" alt="Bash" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=LyU6IwWaREPI&format=png&color=000000" alt="Vim" width="50" height="50"/>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL" width="50" height="50"/>  
   <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="50" height="50"/>  
   <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="MongoDB" width="50" height="50"/>  
@@ -61,19 +69,15 @@ I have experience in a wide range of programming languages, frameworks, and tool
   <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="Firebase" width="50" height="50"/>
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Docker" width="50" height="50"/>  
+  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="Amazon Web Services" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" alt="Nginx" width="50" height="50"/>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.icons8.com/?size=100&id=P08kExl7rixR&format=png&color=000000" alt="Unity" width="50" height="50"/>  
   <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="C#" width="50" height="50"/>
 </div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Docker" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="IntelliJ" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="Amazon Web Services" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" alt="Bash" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=LyU6IwWaREPI&format=png&color=000000" alt="Vim" width="50" height="50"/>
-</div>
+
 
 ### 🌐 Find Me Online
 
