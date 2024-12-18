@@ -43,6 +43,7 @@ I have experience in a wide range of programming languages, frameworks, and tool
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="50" height="50"/>  
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="50" height="50"/>  
   <img src="https://img.icons8.com/?size=100&id=22189&format=png&color=000000" alt="Ruby" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="C#" width="50" height="50"/>
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="React" width="50" height="50"/>  
@@ -52,6 +53,7 @@ I have experience in a wide range of programming languages, frameworks, and tool
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="50" height="50"/>  
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=ZMFmFsekpKfY&format=png&color=d30001" alt="Ruby on Rails" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=P08kExl7rixR&format=png&color=000000" alt="Unity" width="50" height="50"/>  
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="50" height="50"/>  
@@ -73,10 +75,7 @@ I have experience in a wide range of programming languages, frameworks, and tool
   <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="Amazon Web Services" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" alt="Nginx" width="50" height="50"/>
 </div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.icons8.com/?size=100&id=P08kExl7rixR&format=png&color=000000" alt="Unity" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="C#" width="50" height="50"/>
-</div>
+
 
 
 ### 🌐 Find Me Online
