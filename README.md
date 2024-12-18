@@ -69,6 +69,7 @@ I have experience in a wide range of programming languages, frameworks, and tool
   <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="MongoDB" width="50" height="50"/>  
   <img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" alt="Redis" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="Firebase" width="50" height="50"/>
+  <img src="https://images.ctfassets.net/o7xu9whrs0u9/6qR4PTwCTfgl0tjfrz0lpy/819fecae70412dacb9b960b98f5fae3b/RabbitMQ-LOGO.png" alt="RabbitMQ" width="50" height="50"/>
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Docker" width="50" height="50"/>  
