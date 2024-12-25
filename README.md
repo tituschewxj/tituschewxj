@@ -1,4 +1,5 @@
-### Hi there 👋
+![](/header.png)
+<!---### Hi there 👋-->
 
 I’m Titus, a Computer Science major at the National University of Singapore, set to graduate in 2026. Passionate about technology and innovation, I am currently seeking exciting opportunities to grow and contribute.
 
@@ -92,55 +93,9 @@ I have experience in a range of programming languages, frameworks, and tools:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<!---
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000" alt="Go" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=22189&format=png&color=000000" alt="Ruby" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="C#" width="50" height="50"/>
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="React" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node.js" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="Next.js" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=ZMFmFsekpKfY&format=png&color=d30001" alt="Ruby on Rails" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=P08kExl7rixR&format=png&color=000000" alt="Unity" width="50" height="50"/>  
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="IntelliJ" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" alt="Bash" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=LyU6IwWaREPI&format=png&color=000000" alt="Vim" width="50" height="50"/>
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="MongoDB" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" alt="Redis" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="Firebase" width="50" height="50"/>
-  <img src="https://images.ctfassets.net/o7xu9whrs0u9/6qR4PTwCTfgl0tjfrz0lpy/819fecae70412dacb9b960b98f5fae3b/RabbitMQ-LOGO.png" alt="RabbitMQ" width="50" height="50"/>
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Docker" width="50" height="50"/>  
-  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="Amazon Web Services" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" alt="Nginx" width="50" height="50"/>
-</div>
--->
-
 ### 🌐 Find Me Online
 
-<!---
-- [Website](https://tituschewxj.github.io)
--->
+<!---[Website](https://tituschewxj.github.io)-->
 - [LinkedIn](https://www.linkedin.com/in/tituschewxj/)
 
 Feel free to reach out—I’d love to connect or collaborate on projects! 🚀
