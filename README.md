@@ -17,21 +17,6 @@ I am passionate about crafting high-quality code and solving real-world problems
 
 </div>
 
-### :brain: Problem-Solving
-
-I’m passionate about problem-solving and continuously seek out new challenges to improve my skills. I enjoy the learning process and frequently challenge myself on various programming platforms:
-
-- [Leetcode](https://leetcode.com/tituschewxj/): Check out my progress and stats below!
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/tituschewxj?ext=contest)
-
-- [CodeForces](https://codeforces.com/profile/tituschewxj): Specialist rank
-- [Kattis](https://open.kattis.com/users/tituschewxj): Numerous problems solved
-
-### 🎮 Game Development
-
-In my free time, I explore game development and share my creations on [itch.io](https://utdcus.itch.io/). Game design allows me to combine creativity with technical skills, building experiences that delight and inspire.
-
 ### 🖥️ Technologies & Tools
 
 I have experience in a range of programming languages, frameworks, and tools:
@@ -92,6 +77,21 @@ I have experience in a range of programming languages, frameworks, and tools:
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### :brain: Problem-Solving
+
+I’m passionate about problem-solving and continuously seek out new challenges to improve my skills. I enjoy the learning process and frequently challenge myself on various programming platforms:
+
+- [Leetcode](https://leetcode.com/tituschewxj/): Check out my progress and stats below!
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/tituschewxj?ext=contest)
+
+- [CodeForces](https://codeforces.com/profile/tituschewxj): Specialist rank
+- [Kattis](https://open.kattis.com/users/tituschewxj): Numerous problems solved
+
+### 🎮 Game Development
+
+In my free time, I explore game development and share my creations on [itch.io](https://utdcus.itch.io/). Game design allows me to combine creativity with technical skills, building experiences that delight and inspire.
 
 ### 🌐 Find Me Online
 
