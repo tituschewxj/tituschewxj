@@ -1,7 +1,7 @@
 ![](/header.png)
 <!---### Hi there 👋-->
 
-I’m Titus, a Computer Science major at the National University of Singapore, set to graduate in 2026. Passionate about technology and innovation, I am currently seeking exciting opportunities to grow and contribute.
+I’m Titus, a Computer Science major at the National University of Singapore, graduating in 2026. Explore my [coursework](./modules.md). Passionate about technology and innovation, I’m eager to explore opportunities where I can learn, grow, and make an impact.
 
 I am deeply passionate about software engineering, with a focus on parallel computing, databases, and algorithms. My experience spans full-stack development, and I have a particular enthusiasm for computer graphics and games. These fields inspire my curiosity and motivate me to develop innovative and impactful solutions.
 
