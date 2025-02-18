@@ -79,16 +79,17 @@ I have experience in a range of programming languages, frameworks, and tools:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### :brain: Problem-Solving
+### :brain: Problem-Solving & Competitive Programming
 
-I’m passionate about problem-solving and continuously seek out new challenges to improve my skills. I enjoy the learning process and frequently challenge myself on various programming platforms:
+I have a strong passion for tackling complex problems and continuously refining my problem-solving skills. With a solid foundation in algorithms and data structures, I actively participate in competitive programming, consistently improving my rankings across multiple platforms. I thrive in high-pressure environments, enjoy breaking down challenging problems, and am always eager to learn and grow.
 
-- [Leetcode](https://leetcode.com/tituschewxj/): Check out my progress and stats below!
+**💡 Key Highlights:**
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/tituschewxj?ext=contest)
+- [**Leetcode:** 2100+ Contest Rating (Top 1.5%)](https://leetcode.com/tituschewxj/)
+- [**CodeForces:** Specialist rank (1400+ Rating)](https://codeforces.com/profile/tituschewxj)
+- [**Kattis:** Top 500 Ranking, with numerous problems solved](https://open.kattis.com/users/tituschewxj)
 
-- [CodeForces](https://codeforces.com/profile/tituschewxj): Specialist rank
-- [Kattis](https://open.kattis.com/users/tituschewxj): Numerous problems solved
+<!---![Leetcode Stats](https://leetcard.jacoblin.cool/tituschewxj?ext=contest)-->
 
 ### 🎮 Game Development
 
