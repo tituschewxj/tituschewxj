@@ -9,7 +9,7 @@ I am deeply passionate about software engineering, with a focus on parallel comp
 
 I am passionate about crafting high-quality code and solving real-world problems. My contributions include a range of projects available on GitHub and [GitLab](https://gitlab.com/tituschewxj). I also take pride in using my skills for the greater good, as reflected in my work with [Computing for Voluntary Welfare Organizations](https://www.comp.nus.edu.sg/~vwo/), where I contribute to supporting the community.
 
-### :brain: Problem-Solving & Competitive Programming
+### :brain: Problem-Solving
 
 I have a strong passion for tackling complex problems and continuously refining my problem-solving skills. With a solid foundation in algorithms and data structures, I actively participate in competitive programming, consistently improving my rankings across multiple platforms. I thrive in high-pressure environments, enjoy breaking down challenging problems, and am always eager to learn and grow.
 
