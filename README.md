@@ -9,6 +9,8 @@ I am deeply passionate about software engineering, with a focus on parallel comp
 
 I am passionate about crafting high-quality code and solving real-world problems. My contributions include a range of projects available on GitHub and [GitLab](https://gitlab.com/tituschewxj). I also take pride in using my skills for the greater good, as reflected in my work with [Computing for Voluntary Welfare Organizations](https://www.comp.nus.edu.sg/~vwo/), where I contribute to supporting the community.
 
+In addition to my technical focus, I also explore game development in my free time, where I share my creations on [itch.io](https://utdcus.itch.io/). Game design allows me to combine creativity with technical skills, building experiences that delight and inspire.
+
 ### :brain: Problem-Solving
 
 I have a strong passion for tackling complex problems and continuously refining my problem-solving skills. With a solid foundation in algorithms and data structures, I actively participate in competitive programming, consistently improving my rankings across multiple platforms. I thrive in high-pressure environments, enjoy breaking down challenging problems, and am always eager to learn and grow.
@@ -59,6 +61,8 @@ I have experience in a range of programming languages, frameworks, and tools, in
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -93,6 +97,7 @@ I have experience in a range of programming languages, frameworks, and tools, in
 
 **Machine Learning**
 
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=fff)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -102,10 +107,6 @@ I have experience in a range of programming languages, frameworks, and tools, in
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-### 🎮 Game Development
-
-In my free time, I explore game development and share my creations on [itch.io](https://utdcus.itch.io/). Game design allows me to combine creativity with technical skills, building experiences that delight and inspire.
 
 ### 🌐 Find Me Online
 
