@@ -17,7 +17,7 @@ I have a strong passion for tackling complex problems and continuously refining 
 
 **Highlights**
 
-- [Leetcode](https://leetcode.com/tituschewxj/): 2100+ Contest Rating (Top 1.5%)
+- [Leetcode](https://leetcode.com/tituschewxj/): 2000+ Contest Rating (Top 2%)
 - [CodeForces](https://codeforces.com/profile/tituschewxj): Specialist rank (1400+ Rating)
 - [Kattis](https://open.kattis.com/users/tituschewxj): Top 500 Ranking, with numerous problems solved
 
