@@ -9,7 +9,7 @@ I am deeply passionate about software engineering, with a focus on parallel comp
 
 I am passionate about crafting high-quality code and solving real-world problems. My contributions include a range of projects available on GitHub and [GitLab](https://gitlab.com/tituschewxj). I also take pride in using my skills for the greater good, as reflected in my work with [Computing for Voluntary Welfare Organizations](https://www.comp.nus.edu.sg/~vwo/), where I contribute to supporting the community.
 
-In addition to my technical focus, I also explore game development in my free time, where I share my creations on [itch.io](https://utdcus.itch.io/). Game design allows me to combine creativity with technical skills, building experiences that delight and inspire.
+In addition to my technical focus, I also explore game development, where I share my creations on [itch.io](https://utdcus.itch.io/). Game design allows me to combine creativity with technical skills, building experiences that delight and inspire.
 
 ### :brain: Problem-Solving
 
@@ -33,7 +33,7 @@ I have a strong passion for tackling complex problems and continuously refining 
 
 ### 🖥️ Technologies & Tools
 
-I have experience in a range of programming languages, frameworks, and tools, including:
+My experience in programming languages, frameworks, and tools:
 
 **Languages**
 
@@ -114,4 +114,4 @@ I have experience in a range of programming languages, frameworks, and tools, in
 <!---[Website](https://tituschewxj.github.io)-->
 - [LinkedIn](https://www.linkedin.com/in/tituschewxj/)
 
-Feel free to reach out—I’d love to connect or collaborate on projects! 🚀
+Feel free to reach out—I’d love to connect! 🚀
