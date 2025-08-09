@@ -1,4 +1,4 @@
-Here are some notable modules I have taken/am taking as a Computer Science Major at the National University of Singapore:
+Here are some notable modules I have taken/taking as a Computer Science Major at the National University of Singapore:
 
 **Algorithms and Theory**
 - CS3230 Design and Analysis of Algorithms
@@ -21,17 +21,20 @@ Here are some notable modules I have taken/am taking as a Computer Science Major
 - CS4225 Big Data Systems for Data Science
 
 **Networking and Distributed Systems**
-- CS2105 Introduction to Computer Networks 
+- CS2105 Introduction to Computer Networks
 - CS4231 Parallel and Distributed Algorithms
+- CS4226 Internet Architectures (Currently Taking)
 
 **Parallel Computing**
 - CS3210 Parallel Computing
 - CS3211 Parallel and Concurrent Programming
 - CS4231 Parallel and Distributed Algorithms
+- CS4223 Multi-core Architecture (Currently Taking)
 
 **Programming Languages**
 - CS2104 Programming Language Concepts
 - CS3211 Parallel and Concurrent Programming
+- CS4212 Compiler Design (Currently Taking)
 
 **Software Engineering**
 - CS2103T Software Engineering
