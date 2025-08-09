@@ -23,7 +23,7 @@ Here are some notable modules I have taken/taking as a Computer Science Major at
 **Networking and Distributed Systems**
 - CS2105 Introduction to Computer Networks
 - CS4231 Parallel and Distributed Algorithms
-- CS4226 Internet Architectures (Currently Taking)
+- CS4226 Internet Architecture (Currently Taking)
 
 **Parallel Computing**
 - CS3210 Parallel Computing
