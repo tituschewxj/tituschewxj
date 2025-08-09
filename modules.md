@@ -15,23 +15,23 @@ Here are some notable modules I have taken/taking as a Computer Science Major at
 **Computer Security**
 - CS2107 Introduction to Information Security
 
-**Database Systems**
+**Database Systems** (Focus Area Distinction)
 - CS2102 Database Systems
 - CS3233 Database Systems Implementation
 - CS4225 Big Data Systems for Data Science
 
-**Networking and Distributed Systems**
+**Networking and Distributed Systems** (Focus Area)
 - CS2105 Introduction to Computer Networks
 - CS4231 Parallel and Distributed Algorithms
 - CS4226 Internet Architecture (Currently Taking)
 
-**Parallel Computing**
+**Parallel Computing** (Focus Area Merit)
 - CS3210 Parallel Computing
 - CS3211 Parallel and Concurrent Programming
 - CS4231 Parallel and Distributed Algorithms
 - CS4223 Multi-core Architecture (Currently Taking)
 
-**Programming Languages**
+**Programming Languages** (Focus Area)
 - CS2104 Programming Language Concepts
 - CS3211 Parallel and Concurrent Programming
 - CS4212 Compiler Design (Currently Taking)
