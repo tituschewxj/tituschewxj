@@ -20,7 +20,7 @@ Here are some notable modules I have taken/taking as a Computer Science Major at
 - CS3233 Database Systems Implementation
 - CS4225 Big Data Systems for Data Science
 
-**Networking and Distributed Systems** (Focus Area)
+**Networking and Distributed Systems** (Focus Area Ongoing)
 - CS2105 Introduction to Computer Networks
 - CS4231 Parallel and Distributed Algorithms
 - CS4226 Internet Architecture (Currently Taking)
@@ -31,7 +31,7 @@ Here are some notable modules I have taken/taking as a Computer Science Major at
 - CS4231 Parallel and Distributed Algorithms
 - CS4223 Multi-core Architecture (Currently Taking)
 
-**Programming Languages** (Focus Area)
+**Programming Languages** (Focus Area Ongoing)
 - CS2104 Programming Language Concepts
 - CS3211 Parallel and Concurrent Programming
 - CS4212 Compiler Design (Currently Taking)
