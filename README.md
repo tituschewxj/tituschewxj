@@ -3,7 +3,7 @@
 
 I’m Titus, a Computer Science major at the National University of Singapore, graduating in 2026. Explore my [coursework](./modules.md). Passionate about technology and innovation, I’m eager to explore opportunities where I can learn, grow, and make an impact.
 
-I am deeply passionate about software engineering, with a focus on parallel computing and databases. My experience spans full-stack and backend development, and I have a particular enthusiasm for computer graphics and games. These fields inspire my curiosity and motivate me to develop innovative and impactful solutions.
+I am deeply passionate about software engineering, with a focus on parallel computing and databases. I also enjoy exploring distributed systems and programming languages. My experience spans full-stack and backend development, and I have a particular enthusiasm for computer graphics and games. These fields inspire my curiosity and motivate me to develop innovative and impactful solutions.
 
 ### 🛠️ What I Do
 
@@ -33,6 +33,24 @@ I have a strong passion for tackling complex problems and continuously refining 
 
 ### 🖥️ Technologies & Tools
 
+I'm most experienced in: 
+
+- Programming Languages: Golang, TypeScript, C++
+- Frontend Frameworks: React, Next JS, Redux, Ant-Design, MUI
+- Databases: Postgres, Redis, MySQL
+- Infrastructure: Docker, Kubernetes, Linux, AWS
+- Development: Git, Vim, VS Code
+
+I've got some experience in:
+
+- Programming Languages: Java, Ruby, Rust, Ocaml, Python, Bash, C, C#
+- Databases: Firestore, MongoDB, RabbitMQ
+- Parallel Computing: CUDA, OpenMP, MPI
+- Computer Graphics: OpenGL, GLSL
+- Machine Learning: PyTorch
+- Monitoring: Grafana, Prometheus
+
+<!---
 My experience in programming languages, frameworks, and tools:
 
 **Languages**
@@ -108,7 +126,7 @@ My experience in programming languages, frameworks, and tools:
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
+--->
 ### 🌐 Find Me Online
 
 <!---[Website](https://tituschewxj.github.io)-->
