@@ -1,4 +1,4 @@
-![](/header.png)
+<!--- ![](/header.png) -->
 <!---### Hi there 👋-->
 
 I’m Titus, a Computer Science major at the National University of Singapore, graduating in 2026. Explore my [coursework](./modules.md). Passionate about technology and innovation, I’m eager to explore opportunities where I can learn, grow, and make an impact.
