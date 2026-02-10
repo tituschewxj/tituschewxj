@@ -35,5 +35,4 @@ Here are some notable modules I have taken/taking as a Computer Science Major at
 - CS3219 Software Engineering Principles and Patterns
 - CS3230 Design and Analysis of Algorithms
 - CS3233 Competitive Programming
-- CS4231 Parallel and Distributed Algorithms
 - IT2900 Technical Management and Leadership
