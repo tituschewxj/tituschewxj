@@ -5,8 +5,8 @@ Here are some notable modules I have taken/taking as a Computer Science Major at
 - CS3211 Parallel and Concurrent Programming
 - CS4231 Parallel and Distributed Algorithms
 - CS4223 Multi-core Architecture
-- CS5250 Advanced Operating Systems (ongoing)
-- CS5223 Distributed Systems (ongoing)
+- CS5250 Advanced Operating Systems
+- CS5223 Distributed Systems
 
 **Database Systems** (Focus Area Distinction)
 - CS2102 Database Systems
@@ -25,7 +25,7 @@ Here are some notable modules I have taken/taking as a Computer Science Major at
 
 **Computer Graphics and Games** (Focus Area)
 - CS3241 Computer Graphics
-- CS3247 Game Development (ongoing)
+- CS3247 Game Development
 - CS4247 Graphics Rendering Techniques
 
 **Other Notable Modules**
