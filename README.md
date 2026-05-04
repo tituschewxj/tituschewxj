@@ -21,6 +21,7 @@ I have a strong passion for tackling complex problems and continuously refining 
 
 <!---![Leetcode Stats](https://leetcard.jacoblin.cool/tituschewxj?ext=contest)-->
 
+<!---
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tituschewxj&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true&hide=stars,issues&show=prs_merged,reviews)
@@ -28,6 +29,7 @@ I have a strong passion for tackling complex problems and continuously refining 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tituschewxj&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&hide=c%23,shaderlab,hlsl)
 
 </div>
+-->
 
 ### 🖥️ Technologies & Tools
 
