@@ -49,7 +49,3 @@ I've got some experience in:
 - Computer Graphics: OpenGL, GLSL
 - Machine Learning: PyTorch
 - Monitoring: Grafana, Prometheus
-
-### 🌐 Find Me Online
-
-- [LinkedIn](https://www.linkedin.com/in/tituschewxj/)
