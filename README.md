@@ -1,4 +1,4 @@
-I’m Titus, a Computer Science major at the National University of Singapore (Graduating 2026). I specialize in backend development, distributed systems, parallel computing, and databases. I love solving complex problems, whether it's building impactful tech for [CVWO](https://www.comp.nus.edu.sg/~vwo/) or designing creative games on [itch.io](https://utdcus.itch.io/).
+I’m Titus, a Computer Science major at the National University of Singapore (Graduating 2026). I specialize in backend development, distributed systems, parallel computing, and databases. I love solving complex problems, whether it's building impactful tech or designing creative games on [itch.io](https://utdcus.itch.io/).
 
 **Programming Stats**
 
